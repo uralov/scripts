@@ -1,0 +1,8 @@
+/.idea/
+*~
+*.pyc
+*.pyo
+/media/
+/static/
+/public/
+settings_local.py
